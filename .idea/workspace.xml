@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60f1fa94-d172-48d4-8d06-ed926c878969" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Design/ApiDesign.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Design/设计图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/CrestructionWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ClubProductKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ClubSpotKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ProductSpotKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubProductServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubSpotServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ExhibitionServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ProductServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ProductSpotServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/Club.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ClubProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ClubSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ExhibitionSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ProductSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubProductAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubSpotAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ExhibitionSpotAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductSpotAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ClubHasNoIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ExhibitionSpotHasNoIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ProductHasNoIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/ControllerExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubSpotNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ExhibitionSpotNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/NoResultFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductSpotNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/TableIsEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubSpotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ExhibitionSpotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ProductSpotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubSpotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ExhibitionSpotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ProductSpotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubSpotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crestruction/web/ExhibitionSpotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crestruction/web/ProductSpotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crestruction/web/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/CrestructionWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/CompositeKeys/ClubProductKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/CompositeKeys/ClubSpotKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/CompositeKeys/ProductSpotKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/ServiceImps/ClubProductServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/ServiceImps/ClubServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/ServiceImps/ClubSpotServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/ServiceImps/ExhibitionServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/ServiceImps/ProductServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/ServiceImps/ProductSpotServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/entities/Club.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/entities/ClubProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/entities/ClubSpot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/entities/ExhibitionSpot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/entities/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/entities/ProductSpot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubAlreadyExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubProductAlreadyExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubSpotAlreadyExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ExhibitionSpotAlreadyExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductAlreadyExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductSpotAlreadyExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ClubHasNoIdException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ExhibitionSpotHasNoIdException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ProductHasNoIdException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/ControllerExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubProductNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubSpotNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/ExhibitionSpotNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/NoResultFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductSpotNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/exceptions/NotFoundExceptions/TableIsEmptyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/repositories/ClubProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/repositories/ClubRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/repositories/ClubSpotRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/repositories/ExhibitionSpotRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/repositories/ProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/repositories/ProductSpotRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/services/ClubProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/services/ClubService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/services/ClubSpotService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/services/ExhibitionSpotService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/services/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crestruction/web/database/services/ProductSpotService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crestruction/web/ClubProductTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crestruction/web/ClubSpotTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crestruction/web/ClubTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crestruction/web/ExhibitionSpotTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crestruction/web/ProductSpotTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crestruction/web/ProductTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubProductTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="25" />
+              <folding>
+                <element signature="method#testAddNewClubProduct#0;class#ClubProductTest#0" />
+                <element signature="method#testEditClubProduct#0;class#ClubProductTest#0" />
+                <element signature="method#testSearchClubProduct#0;class#ClubProductTest#0" />
+                <element signature="method#testDeleteClubProduct#0;class#ClubProductTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubProductNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ProductServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubProductAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ClubHasNoIdException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ProductHasNoIdException.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ClubProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ClubProductKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ExhibitionSpotRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ExhibitionSpotService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ExhibitionSpotAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ExhibitionSpotNOtFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ExhibitionSpotNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ExhibitionServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/EXhibitionSpotTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ProductSpot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ProductSpotService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ExhibitionSpotHasNoIdException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductSpotAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductSpotNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubProductServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ProductSpotKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ProductSpotServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ClubSpot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ClubSpotKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/Club.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ExhibitionSpot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/CLubSpotRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubProductRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubSpotRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ProductSpotRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubSpotService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubSpotAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubSpotNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubSpotServiceImp.java" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubProductTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubSpotTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/ExhibitionSpotTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/ProductSpotTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crestruction/web/ProductTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="127" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineComicConBackend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.com.crestruction.web in web">
+    <configuration name="ClubSpotTest.testAddNewClubSpot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crestruction.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crestruction.web" />
+      <option name="MAIN_CLASS_NAME" value="com.crestruction.web.ClubSpotTest" />
+      <option name="METHOD_NAME" value="testAddNewClubSpot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubSpotTest.testDeleteClubSpot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crestruction.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crestruction.web" />
+      <option name="MAIN_CLASS_NAME" value="com.crestruction.web.ClubSpotTest" />
+      <option name="METHOD_NAME" value="testDeleteClubSpot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubSpotTest.testEditClubSpot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crestruction.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crestruction.web" />
+      <option name="MAIN_CLASS_NAME" value="com.crestruction.web.ClubSpotTest" />
+      <option name="METHOD_NAME" value="testEditClubSpot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubSpotTest.testSearchClubSpot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crestruction.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crestruction.web" />
+      <option name="MAIN_CLASS_NAME" value="com.crestruction.web.ClubSpotTest" />
+      <option name="METHOD_NAME" value="testSearchClubSpot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.crestruction.web in web" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crestruction.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crestruction.web" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.crestruction.web in web" />
+        <item itemvalue="JUnit.ClubSpotTest.testDeleteClubSpot" />
+        <item itemvalue="JUnit.ClubSpotTest.testSearchClubSpot" />
+        <item itemvalue="JUnit.ClubSpotTest.testEditClubSpot" />
+        <item itemvalue="JUnit.ClubSpotTest.testAddNewClubSpot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f1fa94-d172-48d4-8d06-ed926c878969" name="Default Changelist" comment="" />
+      <created>1589787604348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589787604348</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add product and ClubProduct tables">
+      <created>1590464187664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590464187664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add product and ClubProduct tables">
+      <created>1590464223504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590464223505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Solve some problem in 2-way saving">
+      <created>1590548760031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590548760031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add ExhibitionSpot table">
+      <created>1591708566544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591708566544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ProductSpot table">
+      <created>1591954831463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591954831463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Readme instruction">
+      <created>1591955449285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591955449285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add the missing productSpotKey table">
+      <created>1591960118628</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591960118628</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add the missing tables">
+      <created>1591960185465</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591960185465</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add the clubSpot tables">
+      <created>1592474951989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592474951989</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Edit readme.txt">
+      <created>1592475070690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592475070690</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ClubSpotTest_testEditClubSpot - 2020.06.18 at 17h 43m 23s.xml">
+      <configuration name="ClubSpotTest.testEditClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testEditClubSpot - 2020.06.18 at 17h 45m 31s.xml">
+      <configuration name="ClubSpotTest.testEditClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testEditClubSpot - 2020.06.18 at 17h 47m 19s.xml">
+      <configuration name="ClubSpotTest.testEditClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testEditClubSpot - 2020.06.18 at 17h 52m 23s.xml">
+      <configuration name="ClubSpotTest.testEditClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testEditClubSpot - 2020.06.18 at 17h 55m 11s.xml">
+      <configuration name="ClubSpotTest.testEditClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testSearchClubSpot - 2020.06.18 at 18h 03m 30s.xml">
+      <configuration name="ClubSpotTest.testSearchClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testDeleteClubSpot - 2020.06.18 at 18h 07m 00s.xml">
+      <configuration name="ClubSpotTest.testDeleteClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClubSpotTest_testDeleteClubSpot - 2020.06.18 at 18h 08m 21s.xml">
+      <configuration name="ClubSpotTest.testDeleteClubSpot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_crestruction_web_in_web - 2020.06.18 at 18h 08m 50s.xml">
+      <configuration name="com.crestruction.web in web" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_crestruction_web_in_web - 2020.12.15 at 11h 34m 57s.xml">
+      <configuration name="com.crestruction.web in web" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25626516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40674955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add product and ClubProduct tables" />
+    <MESSAGE value="Solve some problem in 2-way saving" />
+    <MESSAGE value="Add ExhibitionSpot table" />
+    <MESSAGE value="Add ProductSpot table" />
+    <MESSAGE value="Add Readme instruction" />
+    <MESSAGE value="Add the missing productSpotKey table" />
+    <MESSAGE value="Add the missing tables" />
+    <MESSAGE value="Add the clubSpot tables" />
+    <MESSAGE value="Edit readme.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit readme.txt" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ProductServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="method#saveProduct#0;class#ProductServiceImp#0" />
+            <element signature="method#editProduct#0;class#ProductServiceImp#0" />
+            <element signature="method#deleteProduct#0;class#ProductServiceImp#0" />
+            <element signature="method#searchProduct#0;class#ProductServiceImp#0" />
+            <element signature="method#getAllProduct#0;class#ProductServiceImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ClubHasNoIdException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="52" column="53" lean-forward="true" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="method#saveClub#0;class#ClubServiceImp#0" />
+            <element signature="method#editClub#0;class#ClubServiceImp#0" />
+            <element signature="method#deleteClub#0;class#ClubServiceImp#0" />
+            <element signature="method#searchClub#0;class#ClubServiceImp#0" />
+            <element signature="method#getAllClub#0;class#ClubServiceImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ExhibitionSpotRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ExhibitionSpotNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ExhibitionSpotAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ProductHasNoIdException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AttributeEntityIncompleteException/ExhibitionSpotHasNoIdException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ProductSpotAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ProductSpotNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Product#0;class#Product#0" />
+            <element signature="method#Product#1;class#Product#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ProductSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ExhibitionServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="93" column="55" selection-start-line="93" selection-start-column="55" selection-end-line="93" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#saveExhibitionSpot#0;class#ExhibitionServiceImp#0" />
+            <element signature="method#editExhibitionSpot#0;class#ExhibitionServiceImp#0" />
+            <element signature="method#deleteExhibitionSpot#0;class#ExhibitionServiceImp#0" />
+            <element signature="method#searchExhibitionSpot#0;class#ExhibitionServiceImp#0" />
+            <element signature="method#getAllExhibitionSpot#0;class#ExhibitionServiceImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ProductSpotService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ExhibitionSpotService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ProductSpotKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ClubProductKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ClubProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/Club.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ExhibitionSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/entities/ClubSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ClubSpot#1;class#ClubSpot#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ProductSpotRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/repositories/ClubSpotRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubSpotAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/AlreadyExistExceptions/ClubProductAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubProductNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/exceptions/NotFoundExceptions/ClubSpotNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubProductServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="180" column="88" lean-forward="true" selection-start-line="175" selection-start-column="12" selection-end-line="180" selection-end-column="88" />
+          <folding>
+            <element signature="method#saveClubProduct#0;class#ClubProductServiceImp#0" />
+            <element signature="method#editClubProduct#0;class#ClubProductServiceImp#0" />
+            <element signature="method#deleteClubProduct#0;class#ClubProductServiceImp#0" />
+            <element signature="method#deleteAllClubProduct#0;class#ClubProductServiceImp#0" />
+            <element signature="method#getAllClubProduct#0;class#ClubProductServiceImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ProductSpotServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="200" column="31" lean-forward="true" selection-start-line="196" selection-start-column="8" selection-end-line="200" selection-end-column="31" />
+          <folding>
+            <element signature="method#saveProductSpot#0;class#ProductSpotServiceImp#0" />
+            <element signature="method#editProductSpot#0;class#ProductSpotServiceImp#0" />
+            <element signature="method#deleteProductSpot#0;class#ProductSpotServiceImp#0" />
+            <element signature="method#deleteAllProductSpot#0;class#ProductSpotServiceImp#0" />
+            <element signature="method#getAllProductSpot#0;class#ProductSpotServiceImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/CompositeKeys/ClubSpotKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ClubSpotKey#0;class#ClubSpotKey#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/ServiceImps/ClubSpotServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="93" column="54" selection-start-line="93" selection-start-column="54" selection-end-line="93" selection-end-column="54" />
+          <folding>
+            <element signature="method#saveClubSpot#0;class#ClubSpotServiceImp#0" />
+            <element signature="method#deleteClubSpot#0;class#ClubSpotServiceImp#0" />
+            <element signature="method#deleteAllClubSpot#0;class#ClubSpotServiceImp#0" />
+            <element signature="method#searchClubSpot#0;class#ClubSpotServiceImp#0" />
+            <element signature="method#getAllClubSpot#0;class#ClubSpotServiceImp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crestruction/web/database/services/ClubSpotService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubSpotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#1680#1692#0" />
+            <element signature="method#testAddNewClubSpot#0;class#ClubSpotTest#0" />
+            <element signature="method#testEditClubSpot#0;class#ClubSpotTest#0" />
+            <element signature="method#testSearchClubSpot#0;class#ClubSpotTest#0" />
+            <element signature="method#testDeleteClubSpot#0;class#ClubSpotTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="method#testAddNewClub#0;class#ClubTest#0" />
+            <element signature="method#testEditClub#0;class#ClubTest#0" />
+            <element signature="method#testSearchClub#0;class#ClubTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ExhibitionSpotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testEditExhibitionSpot#0;class#ExhibitionSpotTest#0" />
+            <element signature="method#testSearchExhibitionSpot#0;class#ExhibitionSpotTest#0" />
+            <element signature="method#testDeleteExhibitionSpot#0;class#ExhibitionSpotTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ProductSpotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testAddNewProductSpot#0;class#ProductSpotTest#0" />
+            <element signature="method#testSearchProductSpot#0;class#ProductSpotTest#0" />
+            <element signature="method#testDeleteClubProduct#0;class#ProductSpotTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="method#testAddNewProduct#0;class#ProductTest#0" />
+            <element signature="method#testDeleteProduct#0;class#ProductTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crestruction/web/ClubProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="method#testAddNewClubProduct#0;class#ClubProductTest#0" />
+            <element signature="method#testEditClubProduct#0;class#ClubProductTest#0" />
+            <element signature="method#testSearchClubProduct#0;class#ClubProductTest#0" />
+            <element signature="method#testDeleteClubProduct#0;class#ClubProductTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
